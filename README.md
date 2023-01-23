@@ -25,13 +25,13 @@ Java와 스프링을 위주로한 백엔드를 공부중에 있습니다.
     <a href="https://github.com/parksey/graduationProject">
       <img src="https://img.shields.io/badge/-Drone AI & Process-orange?style=for-the-badge">
     </a>
-    <a href="">
+    <a href="https://github.com/parksey/licenseplate-web">
       <img src="https://img.shields.io/badge/-Drone WEB-orange?style=for-the-badge">
     </a>
     <a href="https://season-aster-fea.notion.site/b172ffa314984600beda16e0fc521906?v=6fda7b7e309d4381a058a8c839bcd00b&p=4b5250e06bb4444a8dc8ce94b225dc12&pm=s"> <b>불법주차단속 드론 Notion Link</b></a>
     <br>
     <h3>:green_book: 알바일기(웹 프로젝트) </h3>  
-    <a href="">
+    <a href="https://github.com/parksey/ArbeitDiary">
       <img src="https://img.shields.io/badge/-Arbet Diary-green?style=for-the-badge">
     </a>
     <a href="https://season-aster-fea.notion.site/b172ffa314984600beda16e0fc521906?v=6fda7b7e309d4381a058a8c839bcd00b&p=00b7c6318afb4dd2a78c3f2d46a6535d&pm=s"> <b>알바일기 - WEB Notion Link </a>
