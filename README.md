@@ -22,7 +22,7 @@ Java와 스프링을 위주로한 백엔드를 공부중에 있습니다.
   <h2> Project Link </h2>
   <p>
     <h3>:airplane: 졸업 작품 </h3>
-    <a href="">
+    <a href="https://github.com/parksey/graduationProject">
       <img src="https://img.shields.io/badge/-Drone AI & Process-orange?style=for-the-badge">
     </a>
     <a href="">
