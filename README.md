@@ -39,7 +39,7 @@ Java와 스프링을 위주로한 백엔드를 공부중에 있습니다.
     <a href="https://season-aster-fea.notion.site/b172ffa314984600beda16e0fc521906?v=6fda7b7e309d4381a058a8c839bcd00b&p=00b7c6318afb4dd2a78c3f2d46a6535d&pm=s"> <b>알바일기 - WEB Notion Link </a>
     <br>
     <h3>:poop: 똥피하기 게임</h3>  
-    <a href="https://github.com/parksey/ArbeitDiary">
+    <a href="https://github.com/parksey/Avoid_poop_game">
       <img src="https://img.shields.io/badge/-Avoid Poop Game Link-brown?style=for-the-badge">
     </a>
     
