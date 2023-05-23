@@ -49,7 +49,7 @@ Java와 스프링을 위주로한 백엔드를 공부중에 있습니다.
   
 <h2> More </h2>
   <h3> Notion </h3>
-<a href="https://season-aster-fea.notion.site/b172ffa314984600beda16e0fc521906?v=6fda7b7e309d4381a058a8c839bcd00b">
+<a href="https://season-aster-fea.notion.site/b172ffa314984600beda16e0fc521906?v=31d5dfa46eb24078a3d3b114d965b065">
   <img src="https://img.shields.io/badge/-Notion Link-%235f5f5f?style=for-the-badge&logo=Notion&logoColor=white">
   </a>
 
