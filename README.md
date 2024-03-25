@@ -1,7 +1,7 @@
 <h1 align="center">Park Seyeon</h1>
 
 <div align="center">
-<a href="https://www.notion.so/4db579480e294dbca499840f25a0de7d?pvs=4">
+<a href="https://www.notion.so/507b9f859d8c4a7096b0461c1bb58f95?pvs=4">
   <img src="https://img.shields.io/badge/-Resume-%235f5f5f?style=for-the-badge&logo=Resume&logoColor=white">
 </a>
 <a href="https://pseyeon9901.tistory.com/">
