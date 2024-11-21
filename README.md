@@ -1,5 +1,5 @@
 <h1 align="center">Park Seyeon</h1>
-
+<!--
 <div align="center">
 <a href="https://www.notion.so/507b9f859d8c4a7096b0461c1bb58f95?pvs=4">
   <img src="https://img.shields.io/badge/-Resume-%235f5f5f?style=for-the-badge&logo=Resume&logoColor=white">
@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/-Blog-%ffffff?style=for-the-badge&logo=Blog&logoColor=white">
 </a>
 </div>
-
+-->
 <br>
 
 [![박세연's GitHub stats](https://github-readme-stats.vercel.app/api?username=parksey)](https://github.com/anuraghazra/github-readme-stats)
